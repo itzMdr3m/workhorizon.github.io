@@ -1,0 +1,245 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.menu-vWE {
+  box-sizing: border-box;
+  padding: 7.4rem 0rem 7.4rem 3rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+}
+.menu-vWE .auto-group-zfqu-qdC {
+  margin-right: 1.8rem;
+  width: 22rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-cyen-n2e {
+  box-sizing: border-box;
+  padding-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-cyen-n2e .rectangle-382-K2a {
+  margin-bottom: 2rem;
+  width: 8rem;
+  height: 8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.5rem;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-cyen-n2e .ahmed-mazin-pV8 {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #1a1d1e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-cyen-n2e .ograltinbasedutr-Eok {
+  margin-bottom: 4.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #6a6a6a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-cyen-n2e .edit-xUr {
+  margin: 0rem 8.7rem 3rem 0rem;
+  width: calc(100% - 8.7rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-cyen-n2e .edit-xUr .icon-user-HX8 {
+  margin-right: 1.5rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-cyen-n2e .edit-xUr .edit-profile-Qre {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #1a1d1e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-cyen-n2e .transaction-wra {
+  margin-right: 4rem;
+  width: calc(100% - 4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-cyen-n2e .transaction-wra .icon-history-6Ua {
+  margin-right: 1.5rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-cyen-n2e .transaction-wra .transaction-history-djQ {
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.193359375;
+  color: #1a1d1e;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-cyen-n2e .transaction-wra .transaction-history-djQ .transaction-history-djQ-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #1a1d1e;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-cyen-n2e .transaction-wra .transaction-history-djQ .transaction-history-djQ-sub-1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #6a6a6a;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.menu-vWE .auto-group-zfqu-qdC .settings-dFY {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .settings-dFY .icon-settings-MxE {
+  margin-right: 1.5rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .settings-dFY .notifications-settin-Jca {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #1a1d1e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-wxi6-EWE {
+  box-sizing: border-box;
+  padding-top: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-wxi6-EWE .favorite-food-yii {
+  margin: 0rem 8.5rem 14.2rem 0rem;
+  width: calc(100% - 8.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-wxi6-EWE .favorite-food-yii .icon-heart-uMU {
+  margin-right: 1.5rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-wxi6-EWE .favorite-food-yii .favorite-outfits-26-Eee {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #1a1d1e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-wxi6-EWE .log-out-NVx {
+  margin-right: 11.4rem;
+  width: calc(100% - 11.4rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-wxi6-EWE .log-out-NVx .icon-logout-7iS {
+  margin-right: 1.5rem;
+  width: 3.6rem;
+  height: 3.6rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-zfqu-qdC .auto-group-wxi6-EWE .log-out-NVx .logout-Fpe {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #1a1d1e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-a25g-CE6 {
+  width: 32.9rem;
+  height: 66.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.menu-vWE .auto-group-a25g-CE6 .home-2-wBg {
+  width: 25.9rem;
+  height: 56.2rem;
+  position: absolute;
+  left: 0;
+  top: 4.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+}
+.menu-vWE .auto-group-a25g-CE6 .home-1-e66 {
+  width: 30.6rem;
+  height: 66.4rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 3rem;
+}

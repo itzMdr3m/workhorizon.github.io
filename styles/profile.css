@@ -1,0 +1,227 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 37.5rem;
+}.profile-UaE {
+  box-sizing: border-box;
+  padding: 4rem 2rem 11rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #fbfbfb;
+}
+.profile-UaE .header-adG {
+  margin: 0rem 13.6rem 4rem 0rem;
+  width: calc(100% - 13.6rem);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.profile-UaE .header-adG .chevron-left-hxn {
+  margin: 0.1rem 12.65rem 0rem 0rem;
+  width: 1.05rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.profile-UaE .header-adG .profile-q3Q {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #1a1d1e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-UaE .auto-group-ppfk-mBx {
+  margin: 0rem 12.7rem 1.1rem 12.8rem;
+  width: calc(100% - 25.5rem);
+  height: 8.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.profile-UaE .auto-group-ppfk-mBx .rectangle-382-5TY {
+  width: 8rem;
+  height: 8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 5.5rem;
+}
+.profile-UaE .auto-group-ppfk-mBx .oval-uBg {
+  width: 1.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 5.4rem;
+  top: 6.3rem;
+  border: solid 0.1rem #f8f8f8;
+  box-sizing: border-box;
+  background-color: #4ca6a8;
+  border-radius: 0.95rem;
+}
+.profile-UaE .auto-group-ppfk-mBx .fill-244-QPL {
+  width: 0.6333rem;
+  height: 0.5939rem;
+  position: absolute;
+  left: 5.9973rem;
+  top: 6.9511rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.profile-UaE .ahmed-mazin-WxA {
+  margin-bottom: 1.7rem;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #1a1d1e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-UaE .edit-profile-3x6 {
+  margin: 0rem 0.1rem 4rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #6a6a6a;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-UaE .name-yKx {
+  margin-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.profile-UaE .name-yKx .name-Kuc {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #6a6a6a;
+  font-family: Sofia Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-UaE .name-yKx .auto-group-7uvq-GK4 {
+  box-sizing: border-box;
+  padding: 1.9rem 2rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #1a1d1e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.05rem #e2e2e2;
+  background-color: #ffffff;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.profile-UaE .emai-7qU {
+  margin-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.profile-UaE .emai-7qU .your-email-UR8 {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #6a6a6a;
+  font-family: Sofia Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-UaE .emai-7qU .auto-group-ubpv-oyC {
+  box-sizing: border-box;
+  padding: 1.9rem 2rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #1a1d1e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.05rem #e2e2e2;
+  background-color: #ffffff;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.profile-UaE .password-tDx {
+  margin-bottom: 5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.profile-UaE .password-tDx .password-qez {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #6a6a6a;
+  font-family: Sofia Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.profile-UaE .password-tDx .auto-group-axia-BTx {
+  box-sizing: border-box;
+  padding: 1.9rem 2rem;
+  width: 100%;
+  font-size: 1.4rem;
+  font-weight: 500;
+  line-height: 1;
+  color: #1a1d1e;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.05rem #e2e2e2;
+  background-color: #ffffff;
+  border-radius: 0.9rem;
+  flex-shrink: 0;
+}
+.profile-UaE .btn-3m4 {
+  width: 100%;
+  height: 5.4rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4ca6a8;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
